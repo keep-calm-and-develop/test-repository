@@ -24,7 +24,7 @@ metadata:
     nirmata.io/component: "busybox"
 spec:
   progressDeadlineSeconds: 2147483647
-  replicas: 1
+  replicas: 2
   revisionHistoryLimit: 12
   selector:
     matchLabels:
